@@ -1,0 +1,23 @@
+﻿  Ataque.cpp
+  Fila.cpp
+  GeradorAtaque.cpp
+  exercicioGerador.cpp
+c:\users\ariel\onedrive\área de trabalho\yo\gerador_ataque 0.5\gerador_ataque\exerciciogerador.cpp(20): warning C4244: 'return': conversão de '_Rep' para 'long', possível perda de dados
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\ariel\onedrive\área de trabalho\yo\gerador_ataque 0.5\gerador_ataque\exerciciogerador.cpp(25): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\ariel\onedrive\área de trabalho\yo\gerador_ataque 0.5\gerador_ataque\exerciciogerador.cpp(38): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\ariel\onedrive\área de trabalho\yo\gerador_ataque 0.5\gerador_ataque\exerciciogerador.cpp(45): warning C4156: exclusão de uma expressão de matriz sem o uso da forma matricial de 'delete'; forma matricial substituída
+c:\users\ariel\onedrive\área de trabalho\yo\gerador_ataque 0.5\gerador_ataque\exerciciogerador.cpp(45): warning C4154: exclusão de uma expressão de matriz; conversão para ponteiro fornecida
+  Processo.cpp
+c:\users\ariel\onedrive\área de trabalho\yo\gerador_ataque 0.5\gerador_ataque\processo.cpp(16): warning C4244: 'return': conversão de '_Rep' para 'long', possível perda de dados
+          with
+          [
+              _Rep=__int64
+          ]
+  Random.cpp
+  stdafx.cpp
+  Gerando Código...
+  gerador_ataque.vcxproj -> C:\Users\ariel\OneDrive\Área de Trabalho\Yo\gerador_ataque 0.5\Debug\gerador_ataque.exe
